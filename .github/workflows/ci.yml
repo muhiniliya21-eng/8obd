@@ -22,6 +22,4 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    # Якщо у тебе будуть тести, розкоментуй рядок нижче:
-    # - name: Run tests
-    #   run: npm test
+   
